@@ -1,6 +1,7 @@
 # Ex.No: 3  Basic movements in Unity 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 28/04/2026 
+### NAME: GOPIKA A
+### REGISTER NUMBER : 212224100017
 ### AIM: 
  To learn the basic movements translation,scaling and rotation of game objects through code.
 ### Procedure:
@@ -58,11 +59,7 @@ public class TransformOperations : MonoBehaviour
 ```
 ### Output:
 
-
-
-
-
-
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4c267b5c-b0e6-41ac-aa14-445d7b3e61f2" />
 
 
 ### Result:

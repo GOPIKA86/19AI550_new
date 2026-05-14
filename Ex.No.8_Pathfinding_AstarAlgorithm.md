@@ -1,6 +1,7 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 14/05/2026
+### NAME: GOPIKA A
+### REGISTER NUMBER : 212224100017
 ### AIM: 
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
 ### Algorithm:
@@ -16,7 +17,7 @@ To write a program to create graph using waypoints and use A* algorithm to find 
 8. Create a Game Object for Player ( choose capsule or any others) and attach the script to move player from start to end waypoints
 ```  
 ### Program:
-```
+
 **#1.Waypoint.cs**
 using UnityEngine;
 using System.Collections.Generic;
@@ -140,6 +141,7 @@ Check the following
 
 
 
+<img width="1912" height="1073" alt="image" src="https://github.com/user-attachments/assets/03b03ed9-d202-4fbc-9f17-b58bfe87c957" />
 
 
 
